@@ -1,6 +1,12 @@
 
 Messing around with the spotify API 
 
-## TODO
-- add_playlists_to_liked_songs.py 
-  - A one time run type script, modify to go through and find songs not on my liked songs playlist, but on one of my other playlists
+
+## Requirements
+### Authorization
+.env file contains CLIENT_ID, CLIENT_SECRET, REDIRECT_URI
+[How to get](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
+
+### Python Packages
+- spotipy
+- load_dotenv
