@@ -1,11 +1,10 @@
 
-Messing around with the spotify API 
+Messing around with the Spotify API 
 
 
 ## Requirements
-### Authorization
-.env file contains CLIENT_ID, CLIENT_SECRET, REDIRECT_URI
-[How to get](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
+### [Authorization](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
+- .env file contains CLIENT_ID, CLIENT_SECRET, REDIRECT_URI
 
 ### Python Packages
 - spotipy
