@@ -1,5 +1,6 @@
 # Input of playlist name, find differences of what songs are not added to liked songs from that playlist
 # python3 getPlaylistDifferences.py '2025'
+
 import spotipy
 import os
 from spotipy.oauth2 import SpotifyOAuth
